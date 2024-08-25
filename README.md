@@ -1,16 +1,14 @@
-# quiz_app_gpt
+# Quiz App
 
-A new Flutter project.
+## Overview
+The Quiz App is an engaging and interactive mobile application built with Flutter, designed to test and enhance your knowledge across various topics. Whether you're preparing for a quiz competition, revising for an exam, or just looking for a fun way to learn something new, this app offers a user-friendly platform to challenge yourself with a wide range of questions.
 
-## Getting Started
+## Features
+Variety of Quizzes: Access quizzes on different topics, from general knowledge to specialized subjects.<br>
+Multiple Choice Questions: Answer a variety of multiple-choice questions and get instant feedback.<br>
+Score Tracking: Keep track of your progress with a dynamic scoring system.<br>
+Responsive Design: Enjoy a smooth and consistent experience on both Android and iOS devices.<br>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+Framework: Flutter<br>
+Programming Language: Dart<br>
