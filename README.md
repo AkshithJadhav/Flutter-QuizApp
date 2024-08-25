@@ -12,3 +12,13 @@ Responsive Design: Enjoy a smooth and consistent experience on both Android and 
 ## Technologies Used
 Framework: Flutter<br>
 Programming Language: Dart<br>
+## Application Preview
+![image](https://github.com/user-attachments/assets/6a09baed-49ed-4431-90a3-32aa2a8fd4d8)<br>
+![image](https://github.com/user-attachments/assets/fe28eab1-37dd-4182-a6f5-fb62215d3832)<br>
+![image](https://github.com/user-attachments/assets/5c506f8e-d25b-4f86-9b38-89d1afada2af) <br>
+![image](https://github.com/user-attachments/assets/644ce814-28ed-4b0d-a928-3e7ac378b865) <br>
+![image](https://github.com/user-attachments/assets/b0ec1dd5-a857-476d-bea2-02eb5dfcf96d)<br>
+![image](https://github.com/user-attachments/assets/26b620e2-2111-4aaf-a33a-882f32ae02a0) <br>
+
+
+
